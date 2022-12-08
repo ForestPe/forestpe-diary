@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/forestpe-diary/static/css/main.91d9b239.css",
+    "main.js": "/forestpe-diary/static/js/main.aa903ab9.js",
+    "static/media/tool.jpg": "/forestpe-diary/static/media/tool.7532e8067eab07dfb5f8.jpg",
+    "static/media/toolmulti.jpg": "/forestpe-diary/static/media/toolmulti.38bc07b90ef019faaa31.jpg",
+    "static/media/ya.png": "/forestpe-diary/static/media/ya.69167505a93840d7db81.png",
+    "static/media/dudesportf2.jpg": "/forestpe-diary/static/media/dudesportf2.2a8546c3d89354db7a0d.jpg",
+    "static/media/UnifrakturMaguntia-Regular.ttf": "/forestpe-diary/static/media/UnifrakturMaguntia-Regular.521503440d0fe1ab466f.ttf",
+    "static/media/marvelportf2.jpg": "/forestpe-diary/static/media/marvelportf2.444bb3fe55a1430783e9.jpg",
+    "static/media/Aladin-Regular.ttf": "/forestpe-diary/static/media/Aladin-Regular.63a995a1d79432bde3dc.ttf",
+    "static/media/GermaniaOne-Regular.ttf": "/forestpe-diary/static/media/GermaniaOne-Regular.9f89c9c6863527eb5424.ttf",
+    "static/media/react.png": "/forestpe-diary/static/media/react.b37f0a4b7134b3c99d6e.png",
+    "static/media/css.png": "/forestpe-diary/static/media/css.5491a3b05b4addb59c15.png",
+    "static/media/html.png": "/forestpe-diary/static/media/html.397540dec969b31fd37c.png",
+    "index.html": "/forestpe-diary/index.html",
+    "main.91d9b239.css.map": "/forestpe-diary/static/css/main.91d9b239.css.map",
+    "main.aa903ab9.js.map": "/forestpe-diary/static/js/main.aa903ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d9b239.css",
+    "static/js/main.aa903ab9.js"
+  ]
+}
