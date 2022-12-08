@@ -1,0 +1,80 @@
+.portfolio-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center ;
+        margin-right: 25px;
+        margin-left: 25px;
+        padding-bottom: 60px;
+}
+
+.title {
+        padding-bottom: 10px;
+        font-size: 40px;
+        letter-spacing: 0.03em;
+}
+
+.image {
+        border-radius: 3%;
+        border: 10px solid rgb(53, 43, 43);
+        margin-bottom: 50px;
+        width: 400px;
+        height: 270px;
+}
+
+.btn-links {
+        height: 50px;
+        width: 250px;
+        border-radius: 15px;
+        background: rgb(108,70,112);
+        background: linear-gradient(5deg, rgba(108,70,112,0.9304096638655462) 20%, 
+                rgba(102,153,93,0.9808298319327731) 50%, 
+                rgba(108,77,110,1) 82%, 
+                rgba(108,70,112,1) 100%);
+        font-size: 30px;
+        color: #121212;
+        font-family: "Germania One";
+        letter-spacing: 0.03em;
+}
+
+.btn-links:hover {
+        background: rgb(108,70,112);
+        background: linear-gradient(186deg, 
+                rgba(108,70,112,0.9304096638655462) 20%, 
+                rgba(179,93,92,1) 43%, 
+                rgba(102,153,93,0.9808298319327731) 50%, 
+                rgba(179,93,92,1) 56%, rgba(108,77,110,1) 82%, 
+                rgba(108,70,112,1) 100%);
+}
+
+.btn-links:active {
+        background: rgb(179,93,92);
+        background: linear-gradient(6deg, rgba(179,93,92,1) 27%, rgba(102,153,93,0.9808298319327731) 51%, rgba(179,93,92,1) 99%);
+}
+
+@media screen and (max-width: 1500px) {
+    .portfolio-card {
+        padding-bottom: 40px;
+    }
+
+    .title {
+        padding-top: 30px;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+        .portfolio-card {
+            padding-bottom: 50px;
+        }
+
+        .title {
+                padding-top: 30px;
+        }
+}
+
+@media screen and (max-width: 420px) {
+        .image {
+                width: 350px;
+                height: 220px;
+        }
+}

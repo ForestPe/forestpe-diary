@@ -1,0 +1,19 @@
+@font-face {
+        font-family: "Germania One";
+        src: url(../../GermaniaOne-Regular.ttf);
+}
+
+@font-face {
+        font-family: "Aladin-Regular";
+        src: url(../../Aladin-Regular.ttf);
+}
+
+@font-face {
+        font-family: "UnifrakturMaguntia-Regular";
+        src: url(../../UnifrakturMaguntia-Regular.ttf);
+}
+
+.under-text {
+        font-family: "Aladin-Regular";   
+        letter-spacing: 0.1em;
+}

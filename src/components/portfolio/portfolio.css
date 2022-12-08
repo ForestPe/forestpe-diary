@@ -1,0 +1,37 @@
+#portfolio {
+    font-family: 'Germania One';
+    color: #D2D6D6;
+    background: rgb(18,18,18);
+    background: linear-gradient(180deg, rgba(18,18,18,1) 3%, 
+        rgba(108,70,112,0.9304096638655462) 29%, 
+        rgba(102,153,93,0.9808298319327731) 44%, 
+        rgba(108,77,110,1) 75%, 
+        rgba(108,70,112,1) 83%, 
+        rgba(18,18,18,0.8743872549019608) 88%, 
+        rgba(18,18,18,1) 97%);
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+#portfolioH {
+    font-size: 60px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    letter-spacing: 0.03em;
+}
+
+.portfolio-cards {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1500px) {
+    #portfolioH {
+        margin-bottom: 40px;
+    }
+    
+}
